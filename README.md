@@ -1,6 +1,6 @@
 # workflow
 
-A new Flutter project.
+A new Flutter project to create CI Pipeline.
 
 ## Getting Started
 
